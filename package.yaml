@@ -1,0 +1,7 @@
+apiVersion: harness/skills/v1
+kind: SkillPackage
+spec:
+  id: example/review-tools
+  version: 1.0.0
+  skills:
+    review: skills/review
